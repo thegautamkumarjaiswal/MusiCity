@@ -1,4 +1,4 @@
-# zero
+# MusicCity - music web page
 
 The start of open source.
 Hello everyone, I am new here with my new project to contribute in open source. I am also inviting you to all contributors to contribute in my project.
