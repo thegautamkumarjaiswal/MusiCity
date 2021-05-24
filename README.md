@@ -1,15 +1,16 @@
-# MusiCity - music web page
+# MusiCity - Simple web music player.
 
-The start of open source.
-Hello everyone, I am new here with my new project to contribute in open source. I am also inviting you to all contributors to contribute in my project.
-
-Its an simple web based music player, I had made in my college project and I want to extend their features and over all things.
-
-If you support, then I will learn more from you to all🙏🏻😅.
-
-Let's get started!
+This is My College time project, that I made. On that I haven't so much knowledge about technologies and programming. But Google and github help me a lot to complete.
+I have learned some basics knowledge of Python and Web development, then I started work on simple idea(music player).
 
 
-Fork it!🥳
+## Idea
+At that time, The main idea of this project is to make a web page and application, that have many features like: 
 
-Thank You! Buddies 😊
+* Music and Short Video Player 
+* Video and Audio editor
+* Open source
+
+After making simple web page, I have submitted this project in my college and decided to continue, nut some probelms I can't...
+
+This Project helps me a lot to learn and understand new things better like workflow, actions, open-source, development  and all.
