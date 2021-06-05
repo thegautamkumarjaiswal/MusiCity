@@ -20,11 +20,13 @@ I have learned some basics knowledge of Python and Web development, then I start
 
 At that time, The main idea of this project is to make a web page and application, that have many features like: 
 
-* Music and Short Video Player 
-* Video and Audio editor
-* Open source
+* Music and Video Player 
+* Multi platform application
+* Make it open for developers
+* Add Automatic Subtitle genration
+* Add voice assistant
 
-After making simple web page, I have submitted this project in my college and decided to continue, nut some probelms I can't...
+After making simple web page, I have submitted this project in my college and decided to continue, But because of some problems I can't...
 This Project helps me a lot to learn and understand new things better like workflow, actions, open-source, development  and all.
 
 
@@ -71,4 +73,11 @@ python manage.py runserver
 ## Welcome! Contributor
 
 Feel free to contribute, follow the [CONTRIBUTING.md](https://github.com/thegautamkumarjaiswal/MusiCity/blob/main/CONTRIBUTING.md) and [CODE OF CONDUCT.md](https://github.com/thegautamkumarjaiswal/MusiCity/blob/main/CODE_OF_CONDUCT.md).
+
+### You can contribute in:
+
+* Front-End Development
+* Add features(like: audio and video player, music server..)
+* Improve Code quality
+* And much more(If you have idea)
 
