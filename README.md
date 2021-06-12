@@ -50,6 +50,7 @@ Then install django by
 pip install django
 ```
 
+Also see [requirements.txt](https://github.com/thegautamkumarjaiswal/MusiCity/blob/main/requirements.txt) file.
 ## Run the code 
 
 Just go into the code directory and type 
