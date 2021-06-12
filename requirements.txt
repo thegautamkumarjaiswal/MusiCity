@@ -1,0 +1,7 @@
+python >= 3.7
+Django >= 3
+Tensorflow >= 2.0
+Scikit-Learn
+Editor: VS code / PYcharm
+Git version control
+Electron(for convert weeb into application)
