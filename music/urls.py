@@ -1,7 +1,7 @@
 from django.conf.urls import url
 from . import views
 
-app_name = 'music'
+app_name = 'MusicCity'
 
 urlpatterns = [
     url(r'^$', views.index, name='index'),
